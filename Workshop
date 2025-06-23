@@ -84,7 +84,22 @@ Markdown with these major sections:
 ## 6. Open Questions & Next Research Steps
 
 • Use concise bullet points and keep each evidence citation to one line (source title – date – link).
-• Use only resources with a high evidence base.Use state-of-the-art data.Use Russian-language resources to a lesser extent.Keep in mind that my application is focused on using AI.
+
+Requirements for sources and timeliness:
+1. Use **at least 20 different primary sources** (URL or DOI)—each source may be cited **only once**.  
+2. Prioritize high-quality publications:  
+   • Peer-reviewed journals (Q1/Q2, Scopus or Web of Science)  
+   • Reports from international organizations (WHO, OECD, UN, World Bank)  
+   • Scientific databases (PubMed, arXiv, IEEE, ACM)  
+   • Official .gov / .edu / .int websites  
+   • Reputable professional associations  
+   Exclude low-reputation sites, personal blogs, and pages without clear authorship.  
+3. For every source, include the **publication date** and ensure it is **no older than 3 years** (unless the topic is historical). If no recent data exist, label the source “>3 years” and justify its inclusion.  
+4. Provide the **latest available statistics** (year/quarter) and specify their origin.  
+5. Place a concise table **“Source – Type – Year – Brief Summary – Reason for Inclusion”** before the main body of the answer.  
+6. Format references as **[Author, Year] → URL/DOI**.  
+7. After completing the answer, verify that **no URLs are duplicated** and that they lead to different domains/publications.
+
 Tone
 Analytical, neutral, and transparent about evidential strength. Surface counterarguments proactively so the founder can form a balanced view.
 
@@ -216,7 +231,25 @@ Produce a strategic **Idea-Maze Map** that reveals
 - Use numbered sections, crisp bullets, short paragraphs.  
 - Stay analytical and balanced; surface multiple perspectives before choosing a path.  
 - Include Mermaid code blocks for diagrams.  
-- Mark speculations with “(hypothesis)”.  
+- Mark speculations with “(hypothesis)”. 
+
+Requirements for sources and timeliness:
+1. Use **at least 20 different primary sources** (URL or DOI)—each source may be cited **only once**.  
+2. Prioritize high-quality publications:  
+   • Peer-reviewed journals (Q1/Q2, Scopus or Web of Science)  
+   • Reports from international organizations (WHO, OECD, UN, World Bank)  
+   • Scientific databases (PubMed, arXiv, IEEE, ACM)  
+   • Official .gov / .edu / .int websites  
+   • Reputable professional associations  
+   Exclude low-reputation sites, personal blogs, and pages without clear authorship.  
+3. For every source, include the **publication date** and ensure it is **no older than 3 years** (unless the topic is historical). If no recent data exist, label the source “>3 years” and justify its inclusion.  
+4. Provide the **latest available statistics** (year/quarter) and specify their origin.  
+5. Place a concise table **“Source – Type – Year – Brief Summary – Reason for Inclusion”** before the main body of the answer.  
+6. Format references as **[Author, Year] → URL/DOI**.  
+7. After completing the answer, verify that **no URLs are duplicated** and that they lead to different domains/publications.
+
+
+
 
 
 
@@ -280,7 +313,25 @@ Output Format (Markdown)
 
 Scoring Rules  
 - Use integers only (1-5).  
-- If data is uncertain, note the assumption.  
+- If data is uncertain, note the assumption.
+
+Requirements for sources and timeliness:
+1. Use **at least 20 different primary sources** (URL or DOI)—each source may be cited **only once**.  
+2. Prioritize high-quality publications:  
+   • Peer-reviewed journals (Q1/Q2, Scopus or Web of Science)  
+   • Reports from international organizations (WHO, OECD, UN, World Bank)  
+   • Scientific databases (PubMed, arXiv, IEEE, ACM)  
+   • Official .gov / .edu / .int websites  
+   • Reputable professional associations  
+   Exclude low-reputation sites, personal blogs, and pages without clear authorship.  
+3. For every source, include the **publication date** and ensure it is **no older than 3 years** (unless the topic is historical). If no recent data exist, label the source “>3 years” and justify its inclusion.  
+4. Provide the **latest available statistics** (year/quarter) and specify their origin.  
+5. Place a concise table **“Source – Type – Year – Brief Summary – Reason for Inclusion”** before the main body of the answer.  
+6. Format references as **[Author, Year] → URL/DOI**.  
+7. After completing the answer, verify that **no URLs are duplicated** and that they lead to different domains/publications.
+
+
+
 
 
 Follow up
