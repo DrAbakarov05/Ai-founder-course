@@ -315,6 +315,7 @@ Scoring Rules
 - Use integers only (1-5).  
 - If data is uncertain, note the assumption.
 
+
 Requirements for sources and timeliness:
 1. Use **at least 20 different primary sources** (URL or DOI)—each source may be cited **only once**.  
 2. Prioritize high-quality publications:  
@@ -329,10 +330,6 @@ Requirements for sources and timeliness:
 5. Place a concise table **“Source – Type – Year – Brief Summary – Reason for Inclusion”** before the main body of the answer.  
 6. Format references as **[Author, Year] → URL/DOI**.  
 7. After completing the answer, verify that **no URLs are duplicated** and that they lead to different domains/publications.
-
-
-
-
 
 Follow up
 Come up with 3 variations of this idea that would improve scores on <=3 criteria
